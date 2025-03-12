@@ -3,7 +3,7 @@ Sobre a criação do código, segue algumas considerações:
 
 Foi um desafio bem interessante onde eu pude relembrar algumas coisas praticas do Python e também aprender algumas novas.
 
-Como mencionei na entrevista, por não utilizar python para fazer esse tipo de tratativas no meu dia - a dia, o meu maior desafio foi no quesito de bibliotecas, algumas que eu utilizei em antigos projetos não estavam funcionando, muitas delas por conta da versão do Python.
+O meu maior desafio foi no quesito de bibliotecas não estou acostumado a utilizar a biblioteca do mysql , algumas que eu utilizei em antigos projetos não estavam funcionando, muitas delas por conta da versão do Python.
 
 Para a conexão e inserção de dados para o SQL foi a primeira vez que fiz, porém tive exito após pesquisar um pouco sobre as melhores praticas pra aplicar. 
 
